@@ -17,3 +17,4 @@
 javac FileName.java
 java FileName
 ```
+6. **PositiveNegative.java** – Checks if a number is positive or negative.
